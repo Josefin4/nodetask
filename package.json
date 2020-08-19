@@ -1,0 +1,22 @@
+{
+  "name": "node-task",
+  "version": "1.0.0",
+  "description": "nodetask",
+  "main": "nodetask.js",
+  "scripts": {
+    "test": "nod"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josefin4/nodetask.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "\"\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josefin4/nodetask/issues"
+  },
+  "homepage": "https://github.com/josefin4/nodetask#readme"
+}
